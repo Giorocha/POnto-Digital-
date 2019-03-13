@@ -113,6 +113,12 @@ hr{
  .textinho4 > p{
   font-size: 1.5em;
  }
+ .textinho5 > p {
+  font-size: 1.5em;
+ }
+ .textinho6 > p{
+   font-size: 1.5em;
+ }
  .textinho {
   background-color: #fff;
    font-size: 0.9em;
@@ -151,21 +157,87 @@ hr{
   font-size: 0.9em;
   text-align: center;
 }
+.textinho5 {
+  background-color: #fff;
+  color: #000;
+  height: 15em;
+  width: 10%;
+  margin: 2em 2em ;
+  font-size: 0.9em;
+  text-align: center;
+}
+.textinho6{
+  background-color: #fff;
+  color: #000;
+  height: 15em;
+  width: 10%;
+  margin: 2em 2em ;
+  font-size: 0.9em;
+  text-align: center;
+}
 .equipe {
   color: #fff;
-  font-size: 1.6em;
-  margin: 2em 5em;
+  font-size: 1.9em;
+  margin: 2em 3em;
 }
 
 .fotenha {
+  margin: 2em 0;
+  border: 0.5em solid #790f77;
+  height: 20em;
+  width: 29em;
+}
+.fotenha2 {
   border-top: 2em solid #005eb8;
   height: 20em;
-  width: 50%;
+  display: flex;
+  position: relative;
+  right: 120px;
+  border: 0.5em solid #790f77;
+  margin: 2em 0;
+}
+.divi{
+  display: flex;
+  justify-content: space-around;
+
+}
+.dive{
+  display: flex;
+  justify-content: space-around;
+}
+.carlos{
+  padding: 2em;
+  font-size: 1.5em;
+}
+.fundadores {
+  color: #fff;
+  font-size: 1.9em;
+  margin: 3em 31em;
+  
 }
 
+.textinhos{
+  display: flex;
+  justify-content: space-between;
+  margin: 4em 2em;
+}
 
-
-
+.textinhos2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 
+}
+.criadores {
+  padding: 2em;
+  font-size: 1.5em;
+display: flex;
+  justify-content: space-around;
+}
+.loc {
+  color: #fff;
+  font-size: 1.9em;
+  margin: 2em 3em;
+}
 
  /*@media screen and (max-width: 480px) {
     .nav-container, .container {
