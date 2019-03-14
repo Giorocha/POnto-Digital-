@@ -112,7 +112,7 @@ hr{
    width: 10%;
    margin: 2em 2em;
    text-align: center;
-
+  border: 0.5em solid #790f77;
  }
  .textinho2  {
   background-color: #fff;
@@ -122,7 +122,7 @@ hr{
    width: 10%;
    margin: 2em 2em;
    text-align: center;
-
+   border: 0.5em solid #790f77;
  }
  .textinho3 {
   background-color: #fff;
@@ -132,6 +132,7 @@ hr{
   margin: 2em 2em;
   text-align: center;
   font-size: 0.9em;
+  border: 0.5em solid #790f77;
  }
 .textinho4 {
   background-color: #fff;
@@ -141,6 +142,7 @@ hr{
   margin: 9em 2em ;
   font-size: 0.9em;
   text-align: center;
+  border: 0.5em solid #790f77;
 }
 .textinho5 {
   background-color: #fff;
@@ -150,6 +152,7 @@ hr{
   margin: 9em 2em ;
   font-size: 0.9em;
   text-align: center;
+  border: 0.5em solid #790f77;
 }
 .textinho6{
   background-color: #fff;
@@ -159,6 +162,7 @@ hr{
   margin: 9em 2em  ;
   font-size: 0.9em;
   text-align: center;
+  border: 0.5em solid #790f77;
 }
 .equipe {
   color: #fff;
@@ -206,12 +210,12 @@ hr{
   display: flex;
   justify-content: space-between;
   margin: 4em 2em;
+
 }
 
 .textinhos2 {
   display: flex;
   justify-content: space-between;
-  margin: 
 }
 
 .criadores {
@@ -248,7 +252,7 @@ hr{
   font-size: 1.9em;
   margin: 1.5em 3em;
 }
-.planu{
+.planu6{
   background-image: url(../imagens/planos.png);
   background-size: 22em;
   margin: 2em auto ;
@@ -256,60 +260,28 @@ hr{
   background-color: #fff;
   width: 22em;
   height: 18em;
+  
 }
-.planu > p {
-  font-size: 1em;
-}
+
 .criadores{
   text-align: left;
 
 }
-.planu1{
+.planu{
   margin: 5em 5em;
   background-image: url(../imagens/planos.png);
-  background-size: 22em;
+  background-size: 18.3em;
   margin: 2em 5em ;
   text-align: center;
   background-color: #fff;
   width: 19em;
   height: 15em;
+
 }
-.planu2  {
-  margin: 5em 5em;
-  background-image: url(../imagens/planos.png);
-  background-size: 19em;
-  margin: 2em 2em ;
-  text-align: center;
-  background-color: #fff;
-  width: 19em;
-  height: 15em;
-}
-.planu3  {
-  background-image: url(../imagens/planos.png);
-  background-size: 19em;
-  margin: 2em 2em ;
-  text-align: center;
-  background-color: #fff;
-  width: 19em;
-  height: 15em;
-}
-.planu4  {
-  background-image: url(../imagens/planos.png);
-  background-size: 19em;
-  margin: 2em 2em ;
-  text-align: center;
-  background-color: #fff;
-  width: 19em;
-  height: 15em;
-}
-.planu5 {
-  background-image: url(../imagens/planos.png);
-  background-size: 19em;
-  margin: 2em 2em ;
-  text-align: center;
-  background-color: #fff;
-  width: 19em;
-  height: 15em;
+
+.planus{
+  display:flex;
+  margin: 2em 3em;
 }
 .contato {
   color: #fff;
